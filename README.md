@@ -4,7 +4,7 @@ A experiment about quantum noise for QEC
 配置相应的环境：
 
 ```bash
-pip install qiskit==4.5
+pip install qiskit==0.45.3
 ```
 这里必须使用4.5，因为需要使用qiskit.providers里面的模拟器。
 
