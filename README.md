@@ -12,6 +12,6 @@ pip install qiskit==0.45.3
 ```bash
 pip install qiskit_aer 
 pip install qtcodes 
-pip install qiskit_experiments
+pip install qiskit_experiments==0.5.4
 pip install scipy
 ```
